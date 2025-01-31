@@ -24,7 +24,6 @@ It showcases my skills, projects, and the technologies I have experience with.
 
 ## 📷 Preview
 ![Portfolio Screenshot](.example/Power.png)
-*(Replace with an actual screenshot of your site!)*
 
 ---
 
@@ -33,5 +32,5 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/Reeyyyh/portfolio.git
-   cd portfolio
+   git clone https://github.com/Reeyyyh/PersonalProfile.git
+   cd PersonalProfile
